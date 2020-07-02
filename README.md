@@ -4,7 +4,7 @@
 
 A curated list of awesome Haskell people profiles you can support by sponsoring them at GitHub.
 
-## GitHub Sponsorship
+## [GitHub Sponsorship](https://github.com/sponsors)
 
 * [@ad-si — Adrian Sieber](https://github.com/sponsors/ad-si)
 * [@Avi-D-coder — Avi Dessauer](https://github.com/sponsors/Avi-D-coder)
@@ -22,6 +22,10 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@srid — Sridhar Ratnakumar](https://github.com/sponsors/srid)
 * [@tarleb — Albert Krewinkel](https://github.com/sponsors/tarleb)
 * [@vrom911 — Veronika Romashkina](https://github.com/sponsors/vrom911)
+
+## [OpenCollective](https://opencollective.com/)
+
+* [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions)
 
 ## License
 
