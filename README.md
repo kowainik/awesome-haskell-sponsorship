@@ -25,7 +25,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 
 ## [OpenCollective](https://opencollective.com/)
 
-* [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions)
+* [Fairy Tale - Artificial General Intelligence Solutions](https://opencollective.com/fairy-tale-agi-solutions)
 
 ## License
 
