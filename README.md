@@ -18,6 +18,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@moodmosaic — Nikos Baxevanis](https://github.com/sponsors/moodmosaic)
 * [@mstksg — Justin Le](https://github.com/sponsors/mstksg)
 * [@NorfairKing — Tom Sydney Kerckhove](https://github.com/sponsors/NorfairKing)
+* [@simonmichael — Simon Michael](https://github.com/sponsors/simonmichael)
 * [@smallhadroncollider — Mark Wales](https://github.com/sponsors/smallhadroncollider)
 * [@srid — Sridhar Ratnakumar](https://github.com/sponsors/srid)
 * [@tarleb — Albert Krewinkel](https://github.com/sponsors/tarleb)
@@ -26,6 +27,9 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 ## [OpenCollective](https://opencollective.com/)
 
 * [Fairy Tale - Artificial General Intelligence Solutions](https://opencollective.com/fairy-tale-agi-solutions)
+* [`hledger`](https://opencollective.com/hledger)
+* [`static-haskell-nix`](https://opencollective.com/static-haskell-nix)
+* [`stripe-haskell`](https://opencollective.com/haskell-stripe)
 
 ## License
 
