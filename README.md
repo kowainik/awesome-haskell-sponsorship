@@ -22,6 +22,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@smallhadroncollider — Mark Wales](https://github.com/sponsors/smallhadroncollider)
 * [@srid — Sridhar Ratnakumar](https://github.com/sponsors/srid)
 * [@tarleb — Albert Krewinkel](https://github.com/sponsors/tarleb)
+* [@tmspzz — Tommaso Piazza](https://github.com/tmspzz)
 * [@vrom911 — Veronika Romashkina](https://github.com/sponsors/vrom911)
 
 ## [OpenCollective](https://opencollective.com/)
