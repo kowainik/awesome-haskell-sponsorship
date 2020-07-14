@@ -13,6 +13,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@emilypi — Emily Pillmore](https://github.com/sponsors/emilypi)
 * [@fosskers — Colin Woodbury](https://github.com/sponsors/fosskers)
 * [@Gabriel439 — Gabriel Gonzalez](https://github.com/sponsors/Gabriel439)
+* [@kritzcreek — Christoph Hegemann](https://github.com/sponsors/kritzcreek)
 * [@kutyel — Flavio Corpa](https://github.com/sponsors/kutyel)
 * [@Lemmih — David Himmelstrup](https://github.com/sponsors/Lemmih)
 * [@moodmosaic — Nikos Baxevanis](https://github.com/sponsors/moodmosaic)
