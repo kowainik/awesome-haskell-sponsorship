@@ -7,6 +7,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 ## [GitHub Sponsorship](https://github.com/sponsors)
 
 * [@ad-si — Adrian Sieber](https://github.com/sponsors/ad-si)
+* [@arianvp — Arian van Putten](https://github.com/sponsors/arianvp)
 * [@Avi-D-coder — Avi Dessauer](https://github.com/sponsors/Avi-D-coder)
 * [@chshersh — Dmitrii Kovanikov](https://github.com/sponsors/chshersh)
 * [@dmjio — David Johnson](https://github.com/sponsors/dmjio)
