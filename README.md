@@ -19,6 +19,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@Lemmih — David Himmelstrup](https://github.com/sponsors/Lemmih)
 * [@moodmosaic — Nikos Baxevanis](https://github.com/sponsors/moodmosaic)
 * [@mstksg — Justin Le](https://github.com/sponsors/mstksg)
+* [@newhoggy — John Ky](https://github.com/sponsors/newhoggy)
 * [@NorfairKing — Tom Sydney Kerckhove](https://github.com/sponsors/NorfairKing)
 * [@simonmichael — Simon Michael](https://github.com/sponsors/simonmichael)
 * [@smallhadroncollider — Mark Wales](https://github.com/sponsors/smallhadroncollider)
