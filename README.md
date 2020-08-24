@@ -18,6 +18,7 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@kritzcreek — Christoph Hegemann](https://github.com/sponsors/kritzcreek)
 * [@kutyel — Flavio Corpa](https://github.com/sponsors/kutyel)
 * [@Lemmih — David Himmelstrup](https://github.com/sponsors/Lemmih)
+* [@mbj — Markus Schirp](https://github.com/sponsors/mbj)
 * [@moodmosaic — Nikos Baxevanis](https://github.com/sponsors/moodmosaic)
 * [@mstksg — Justin Le](https://github.com/sponsors/mstksg)
 * [@newhoggy — John Ky](https://github.com/sponsors/newhoggy)
