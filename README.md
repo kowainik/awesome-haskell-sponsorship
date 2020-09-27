@@ -4,7 +4,7 @@
 
 A curated list of awesome Haskell people profiles you can support by sponsoring them at GitHub.
 
-## Haskell.org
+## [Haskell.org](https://www.haskell.org/)
 
 * [Official Haskell support](https://www.haskell.org/donations/)
 
@@ -40,33 +40,33 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 
 :coffee: Buy a coffee.
 
-* [argumatronic – Julie Moronuki](https://ko-fi.com/argumatronic)
-* [hecatemoonlight – Hécate](https://ko-fi.com/hecatemoonlight)
-* [kowainik – Kowainik](https://ko-fi.com/kowainik)
-* [phagenlocher – Philipp Hagenlocher](https://ko-fi.com/phagenlocher)
-* [piq9117 – Ken](https://ko-fi.com/piq9117)
-* [yaxulive – Alex](https://ko-fi.com/yaxulive)
+* [argumatronic — Julie Moronuki](https://ko-fi.com/argumatronic)
+* [hecatemoonlight — Hécate](https://ko-fi.com/hecatemoonlight)
+* [kowainik — Kowainik](https://ko-fi.com/kowainik)
+* [phagenlocher — Philipp Hagenlocher](https://ko-fi.com/phagenlocher)
+* [piq9117 — Ken](https://ko-fi.com/piq9117)
+* [yaxulive — Alex](https://ko-fi.com/yaxulive)
 
 ## [OpenCollective](https://opencollective.com/)
 
-* [Fairy Tale - Artificial General Intelligence Solutions](https://opencollective.com/fairy-tale-agi-solutions)
+* [Fairy Tale — Artificial General Intelligence Solutions](https://opencollective.com/fairy-tale-agi-solutions)
 * [`hledger`](https://opencollective.com/hledger)
 * [`static-haskell-nix`](https://opencollective.com/static-haskell-nix)
 * [`stripe-haskell`](https://opencollective.com/haskell-stripe)
 
 ## [Patreon](https://www.patreon.com/)
 
-* [Alexander Granin – Functional Design and Architecture](https://www.patreon.com/functional_design_and_architecture)
-* [Csaba Hruska – GRIN](https://www.patreon.com/csaba_hruska)
+* [Alexander Granin — Functional Design and Architecture](https://www.patreon.com/functional_design_and_architecture)
+* [Csaba Hruska — GRIN](https://www.patreon.com/csaba_hruska)
 * [Cyberglot](https://www.patreon.com/cyberglot)
 * [Iceland Jack](https://www.patreon.com/Iceland_jack)
-* [Justin Le – Functional Programming Writing and Streams](https://www.patreon.com/justinle)
-* [Moritz – better mobile haskell story via @zw3rk](https://www.patreon.com/zw3rk)
-* [Sandy Maguire – Algebra-Driven Design](https://www.patreon.com/algebra_driven_design)
-* [Scala & Haskell Love – lovely conferences for free](https://www.patreon.com/scalalove)
-* [Sofia – Mirth](https://www.patreon.com/typeswitch)
-* [Soham Chowdhury – open-source {Haskell, maths}](https://www.patreon.com/mrkgnao)
-* [Tsoding – programming edutainment](https://www.patreon.com/tsoding)
+* [Justin Le — Functional Programming Writing and Streams](https://www.patreon.com/justinle)
+* [Moritz — better mobile haskell story via @zw3rk](https://www.patreon.com/zw3rk)
+* [Sandy Maguire — Algebra-Driven Design](https://www.patreon.com/algebra_driven_design)
+* [Scala & Haskell Love — lovely conferences for free](https://www.patreon.com/scalalove)
+* [Sofia — Mirth](https://www.patreon.com/typeswitch)
+* [Soham Chowdhury — open-source {Haskell, maths}](https://www.patreon.com/mrkgnao)
+* [Tsoding — programming edutainment](https://www.patreon.com/tsoding)
 
 ## License
 
