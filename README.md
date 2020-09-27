@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Haskell people profiles you can support by sponsoring them at GitHub.
+A curated list of awesome Haskell people and projects you can support by sponsoring them at various platforms.
 
 ## [Haskell.org](https://www.haskell.org/)
 
