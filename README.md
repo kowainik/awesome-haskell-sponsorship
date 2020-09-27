@@ -4,7 +4,13 @@
 
 A curated list of awesome Haskell people profiles you can support by sponsoring them at GitHub.
 
+## Haskell.org
+
+* [Official Haskell support](https://www.haskell.org/donations/)
+
 ## [GitHub Sponsorship](https://github.com/sponsors)
+
+:octocat: Support on GitHub.
 
 * [@ad-si — Adrian Sieber](https://github.com/sponsors/ad-si)
 * [@arianvp — Arian van Putten](https://github.com/sponsors/arianvp)
@@ -29,6 +35,17 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [@tarleb — Albert Krewinkel](https://github.com/sponsors/tarleb)
 * [@tmspzz — Tommaso Piazza](https://github.com/tmspzz)
 * [@vrom911 — Veronika Romashkina](https://github.com/sponsors/vrom911)
+
+## [Ko-fi](https://ko-fi.com/)
+
+:coffee: Buy a coffee.
+
+* [argumatronic – Julie Moronuki](https://ko-fi.com/argumatronic)
+* [hecatemoonlight – Hécate](https://ko-fi.com/hecatemoonlight)
+* [kowainik – Kowainik](https://ko-fi.com/kowainik)
+* [phagenlocher – Philipp Hagenlocher](https://ko-fi.com/phagenlocher)
+* [piq9117 – Ken](https://ko-fi.com/piq9117)
+* [yaxulive – Alex](https://ko-fi.com/yaxulive)
 
 ## [OpenCollective](https://opencollective.com/)
 
