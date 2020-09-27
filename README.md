@@ -54,6 +54,20 @@ A curated list of awesome Haskell people profiles you can support by sponsoring 
 * [`static-haskell-nix`](https://opencollective.com/static-haskell-nix)
 * [`stripe-haskell`](https://opencollective.com/haskell-stripe)
 
+## [Patreon](https://www.patreon.com/)
+
+* [Alexander Granin – Functional Design and Architecture](https://www.patreon.com/functional_design_and_architecture)
+* [Csaba Hruska – GRIN](https://www.patreon.com/csaba_hruska)
+* [Cyberglot](https://www.patreon.com/cyberglot)
+* [Iceland Jack](https://www.patreon.com/Iceland_jack)
+* [Justin Le – Functional Programming Writing and Streams](https://www.patreon.com/justinle)
+* [Moritz – better mobile haskell story via @zw3rk](https://www.patreon.com/zw3rk)
+* [Sandy Maguire – Algebra-Driven Design](https://www.patreon.com/algebra_driven_design)
+* [Scala & Haskell Love – lovely conferences for free](https://www.patreon.com/scalalove)
+* [Sofia – Mirth](https://www.patreon.com/typeswitch)
+* [Soham Chowdhury – open-source {Haskell, maths}](https://www.patreon.com/mrkgnao)
+* [Tsoding – programming edutainment](https://www.patreon.com/tsoding)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
