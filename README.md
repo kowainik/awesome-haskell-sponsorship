@@ -29,6 +29,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 * [@mstksg — Justin Le](https://github.com/sponsors/mstksg)
 * [@newhoggy — John Ky](https://github.com/sponsors/newhoggy)
 * [@NorfairKing — Tom Sydney Kerckhove](https://github.com/sponsors/NorfairKing)
+* [@ocramz — Marco Z](https://github.com/sponsors/ocramz)
 * [@simonmichael — Simon Michael](https://github.com/sponsors/simonmichael)
 * [@smallhadroncollider — Mark Wales](https://github.com/sponsors/smallhadroncollider)
 * [@srid — Sridhar Ratnakumar](https://github.com/sponsors/srid)
