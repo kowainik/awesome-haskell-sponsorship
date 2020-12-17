@@ -21,6 +21,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 * [@fosskers — Colin Woodbury](https://github.com/sponsors/fosskers)
 * [@Gabriel439 — Gabriel Gonzalez](https://github.com/sponsors/Gabriel439)
 * [@jgm — John MacFarlane](https://github.com/sponsors/jgm)
+* [@koalaman — Vidar Holen](https://github.com/sponsors/koalaman)
 * [@kritzcreek — Christoph Hegemann](https://github.com/sponsors/kritzcreek)
 * [@kutyel — Flavio Corpa](https://github.com/sponsors/kutyel)
 * [@Lemmih — David Himmelstrup](https://github.com/sponsors/Lemmih)
