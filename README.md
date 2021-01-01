@@ -59,6 +59,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 ## [Patreon](https://www.patreon.com/)
 
 * [Alexander Granin — Pragmatic type level design (book)](https://www.patreon.com/pragmatic_type_level_design)
+* [Berlin Functional Programming Group](https://www.patreon.com/bfpg)
 * [Csaba Hruska — GRIN](https://www.patreon.com/csaba_hruska)
 * [Cyberglot](https://www.patreon.com/cyberglot)
 * [Iceland Jack](https://www.patreon.com/Iceland_jack)
