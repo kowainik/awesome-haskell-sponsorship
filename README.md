@@ -37,6 +37,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 * [@tarleb — Albert Krewinkel](https://github.com/sponsors/tarleb)
 * [@tmspzz — Tommaso Piazza](https://github.com/tmspzz)
 * [@vrom911 — Veronika Romashkina](https://github.com/sponsors/vrom911)
+* [@xmonad — The xmonad window manager](https://github.com/sponsors/xmonad)
 
 ## [Ko-fi](https://ko-fi.com/)
 
@@ -55,6 +56,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 * [`hledger`](https://opencollective.com/hledger)
 * [`static-haskell-nix`](https://opencollective.com/static-haskell-nix)
 * [`stripe-haskell`](https://opencollective.com/haskell-stripe)
+* [`xmonad`](https://opencollective.com/xmonad)
 
 ## [Patreon](https://www.patreon.com/)
 
