@@ -54,6 +54,7 @@ A curated list of awesome Haskell people and projects you can support by sponsor
 ## [OpenCollective](https://opencollective.com/)
 
 * [Fairy Tale — Artificial General Intelligence Solutions](https://opencollective.com/fairy-tale-agi-solutions)
+* [`Haskell Language Server`](https://opencollective.com/haskell-language-server)
 * [`hledger`](https://opencollective.com/hledger)
 * [`static-haskell-nix`](https://opencollective.com/static-haskell-nix)
 * [`stripe-haskell`](https://opencollective.com/haskell-stripe)
